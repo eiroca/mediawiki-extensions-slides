@@ -36,7 +36,7 @@ Name3
 | _style_             | stile of the div |
 
 ### Example
-```
+```xml
 <slides prefix="My Presentation" index="summary|Presentation summary">
 Start
 *Intro
